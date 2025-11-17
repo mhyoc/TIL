@@ -150,5 +150,5 @@ HTTP의 특징:
 ---
 
 ### 참고
-> https://pinomaker.com/126
-> https://mangkyu.tistory.com/69
+> (https://pinomaker.com/126)
+> (https://mangkyu.tistory.com/69)
